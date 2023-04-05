@@ -15,7 +15,7 @@ body {
       rgba(36, 18, 230, 0.937),
       rgba(19, 185, 227, 0.4)
     ),
-    url(/images/back1.jpg);
+    url(images/back1.jpg);
   background-size: cover;
   background-position: center;
   font-family: Lato;
